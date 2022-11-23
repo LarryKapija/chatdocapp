@@ -1,0 +1,14 @@
+{
+  "app_name": "Chat Doc 😎",
+  "login": "LogIn",
+  "register": "Register",
+  "register_text":"Enter your data and create your free account 🤓 (for now)",  
+  "not_valid_email":"The email entered is not valid",
+  "hello":"Welcome again!",
+  "username":"User Name",
+  "email":"Email",
+  "welcome_back":"We are happy to have you back",
+  "login_error":"Error requesting access code",
+  "next": "Next",
+  "language": "Language"
+}
